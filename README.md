@@ -25,9 +25,10 @@ Check out our [project demo video on YouTube](https://www.youtube.com/watch?v=At
 
  <img width="1440" alt="Screenshot 2024-06-15 at 2 59 32 PM" src="https://github.com/sidduonline2003/Healme/assets/130451895/4ab56788-ffef-49b8-9fc5-ddba6bbc3c94">
 
-<img width="1440" alt="Screenshot 2024-06-15 at 3 00 06 PM" src="https://github.com/sidduonline2003/Healme/assets/130451895/8efa1cc7-3e22-465a-9810-ea7751495500">
-<img width="1440" alt="Screenshot 2024-06-15 at 2 59 59 PM" src="https://github.com/sidduonline2003/Healme/assets/130451895/733801cb-2100-461a-95a2-3647d2424fd2">
 <img width="1440" alt="Screenshot 2024-06-15 at 2 59 42 PM" src="https://github.com/sidduonline2003/Healme/assets/130451895/ccbdae8b-c98c-4399-937b-38bc4635af90">
 
 
+<img width="1440" alt="Screenshot 2024-06-15 at 2 59 59 PM" src="https://github.com/sidduonline2003/Healme/assets/130451895/733801cb-2100-461a-95a2-3647d2424fd2">
 
+
+<img width="1440" alt="Screenshot 2024-06-15 at 3 00 06 PM" src="https://github.com/sidduonline2003/Healme/assets/130451895/8efa1cc7-3e22-465a-9810-ea7751495500">
