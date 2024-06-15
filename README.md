@@ -10,7 +10,7 @@ Healme is a cutting-edge digital health assistant designed to provide personaliz
 - **User-Friendly Interface:** Easy-to-use chatbot interface for seamless interaction and navigation.
 
 **Getting Started:**
-To use Healme, simply [visit our website]([(https://victorious-ocean-04c1d8300.5.azurestaticapps.net/index.html)) and start chatting with our AI-driven health assistant.
+To use Healme, simply [visit our website]((https://victorious-ocean-04c1d8300.5.azurestaticapps.net/index.html)) and start chatting with our AI-driven health assistant.
 
 **Demo Video:**
 Check out our [project demo video on YouTube](https://www.youtube.com/watch?v=AtESNq2E6og) to see Healme in action! This video showcases how Healme provides personalized health guidance and access to reliable information, demonstrating its features and benefits for users.
