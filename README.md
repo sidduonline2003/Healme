@@ -23,8 +23,10 @@ Check out our [project demo video on YouTube](https://www.youtube.com/watch?v=At
 
 **Link:** [Healme Project Demo Video](https://www.youtube.com/watch?v=AtESNq2E6og)
 
-<img width="1440" alt="Screenshot 20<img width="1440" alt="Screenshot 2024-06-15 at 2 59 42 PM" src="https://github.com/sidduonline2003/Healme/assets/130451895/e2c039de-7889-49c6-bb15-28826c206f2d">
-24-06-15 at 2 59 32 PM" src="https://github.com/sidduonline2003/Healme/assets/130451895/53993e35-9d1b-4e03-a117-6fa69bc653cd">
-<img width="1440" alt="Screenshot 2024-06-15 at 2 59 59 PM" src="https://github.com/sidduonline2003/Healme/assets/130451895/fcafa9c6-fac5-4be6-8597-5de266f2776b"><img width="1440" alt="Screenshot 2024-06-15 at 3 00 06 PM" src="https://github.com/sidduonline2003/Healme/assets/130451895/9d63487e-6d98-43e5-bc29-5a2dadaebbaf">
+<img width="1440" alt="Screenshot 2024-06-15 at 3 00 06 PM" src="https://github.com/sidduonline2003/Healme/assets/130451895/8efa1cc7-3e22-465a-9810-ea7751495500">
+<img width="1440" alt="Screenshot 2024-06-15 at 2 59 59 PM" src="https://github.com/sidduonline2003/Healme/assets/130451895/733801cb-2100-461a-95a2-3647d2424fd2">
+<img width="1440" alt="Screenshot 2024-06-15 at 2 59 42 PM" src="https://github.com/sidduonline2003/Healme/assets/130451895/ccbdae8b-c98c-4399-937b-38bc4635af90">
+<img width="1440" alt="Screenshot 2024-06-15 at 2 59 32 PM" src="https://github.com/sidduonline2003/Healme/assets/130451895/4ab56788-ffef-49b8-9fc5-ddba6bbc3c94">
+
 
 
